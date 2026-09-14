@@ -228,13 +228,3 @@ Test	Image A	         Image B	  Expected LED
 | Power consumption (typical)           | 150 mW (core)                             |
 ---
 
-
-
-
-
-## 👤 Author
-
-**Sahil Amrut Pisal**  
-B.Tech Electronics and Telecommunication (Honors in VLSI)  
-Dwarkadas J. Sanghvi College of Engineering, Mumbai  
-[LinkedIn](https://www.linkedin.com/in/sahil-pisal-33113a337/) | sahilpisal0407@gmail.com
